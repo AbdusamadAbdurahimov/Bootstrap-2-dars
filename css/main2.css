@@ -1,0 +1,29 @@
+body{
+    width: 1200px;
+    margin: 0;
+}
+.w{
+    margin-left: 400px;
+}
+.p{
+    background: linear-gradient(orange,red);
+    border-radius: 40px;
+}
+.u{
+    background: linear-gradient(hotpink,purple);
+    border-radius: 40px;
+}
+.b{
+    background: linear-gradient(deepskyblue, darkblue);
+    border-radius: 40px;
+}
+.a{
+    background: linear-gradient(dodgerblue,aqua);
+    border-radius: 40px;
+}
+.f{
+    border-radius: 150px;
+}
+.g{
+    border-radius: 40px;
+}
